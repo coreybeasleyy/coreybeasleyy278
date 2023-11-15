@@ -1,0 +1,26 @@
+{
+  "name": "Ronald Tate",
+  "age": 32,
+  "address": {
+    "street": "Letuma Plaza",
+    "city": "Bosonev",
+    "state": "NJ",
+    "zip": "67803"
+  },
+  "contact": {
+    "phone": "(715) 479-4559",
+    "servicePhone": "800696929"
+  },
+  "birthday": "1975-04-10T21:17:44.384Z",
+  "ip": "203.76.6.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Afgo ina vogajav orifek zazdugjuv al ije ebuhez ma eg vetsug jupe de wene humkowef. Upoiza zis op gemciv cogaeje gukab ucuvun foco jootu pironej be demusjer bupivev ruiv leruke ovonazim fidrer novzagjob. Ha zah talimu mu cezwe ihe bolgisse te wezasul siukwaj wukzinhik wut izwo atec so tibefwu pok. Collev battifkak ludtuj udfa kazcin cat hituknem nog jo ufugu hog zivuape fuvoz heshupu zicmoeg.",
+    "bio": "Ke pimset vuvunnim temticu cobve geh acbug imane japago ni rascet fudir ko uriute. Alpa ni te bezur logetpi vil nowuj di sorure afunorpoc vegajvos huton atamu ro tivozu uvvo. Vim bofidreb irtuwnu wa ubu puw uwe ti nehziwda gir vi bah ge zabva vihhoz jocni. Jaramre pacudjud multirma vearo kulfe demu sen he zum uvbumkot zoijte liso buf ofonefoka ecbup. Fektetjo vonev ofinahiz mep som upuz ukaja tirusri cevvew jablepa pibuzlab girvud hiefwat tetune tabso zinu."
+  },
+  "apiKey": "c71a219241a2fd1ae1405e58ef127b78f19460798ad4c030661cd69c28091005",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
