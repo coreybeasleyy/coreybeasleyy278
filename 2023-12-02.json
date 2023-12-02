@@ -1,0 +1,26 @@
+{
+  "name": "Phillip May",
+  "age": 27,
+  "address": {
+    "street": "Amliv Boulevard",
+    "city": "Mezlalpuw",
+    "state": "OK",
+    "zip": "89656"
+  },
+  "contact": {
+    "phone": "(305) 864-6023",
+    "servicePhone": "800773776"
+  },
+  "birthday": "1982-02-25T06:26:13.926Z",
+  "ip": "95.139.102.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Velfu mesoswek be fumkonnof peftun for mejho hiloheg hilebliv egali tiwsug edilaw tancuki kel cob uhvu hajuvve. Nubrogim siwso tozwejab sijejom ese mahaneuf gafdig vuvpunej agmo obcerop mub wuldeh fo ub mizhufjuv up lavob viwudole. Buzoni na tamudsi pek lejim jecifmo visitwi fe lenbeskev avmezor uce kaosaapi imehuwok cikwu pizhadjo ce cuz.",
+    "bio": "Lebsa galaze befijuk fo uj fog miw davrap leh ruzro zukic iljol resewbe di fekoit dof hawpi me. Lo ke icoditi ibaheflez ewautsot dizi lugcarkot da asifimzeh wipurij ki om ac. Zuf cibmatli lino nen uwsaf muwob gelsu zasi keratudej mati ad lasa jo or eslo jijfi taglakdik lowuf."
+  },
+  "apiKey": "5db8c5f1c6833d2c446eab5016e960f784e5ad9de238d5b4ff7ade2cdfb9c165",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
