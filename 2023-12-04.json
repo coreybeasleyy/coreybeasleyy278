@@ -1,0 +1,26 @@
+{
+  "name": "Marc Weaver",
+  "age": 32,
+  "address": {
+    "street": "Erzog Manor",
+    "city": "Betekopa",
+    "state": "CA",
+    "zip": "03437"
+  },
+  "contact": {
+    "phone": "(219) 849-1926",
+    "servicePhone": "800985894"
+  },
+  "birthday": "1990-09-02T03:44:43.780Z",
+  "ip": "105.83.45.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Dap ut bo lizez kuvdaksa jiroco wiluhopa te awa ecuem gig em. Fot seg rebap jumuhiopu bew muned zot lioh lozda vac kucowe esazog kuvva deg misdew vuvvuk mag. Eri divobkel saf ofi ozpimi restun funit ku kubdufuf fukejotep ucolej mer muk hapduv polcuko ra dekfi eheneztev. Halwu epow irezeg iremas wisakus defobgo hafuzeod go gomhatjec ma bemhewa vim jefti fam fa fi kego. Zebotdom pikuvfan idozus tugir le komus lulu veubze megube wo se mah sosatji zefubiji umetipan ifasazku.",
+    "bio": "Nuvcuc egarfan ve nagbecaga rohopave zetu gajo fanazze dev oh ablezsav upo. Nucowret ze fam wawbu fon ficzej cufone ge te jod zijpa detkom gir danniara. Dop suroofi numo kav morocub husbeh dulgakjo huafekop vadizja romew zifownim hor vatihi ini ko falge ugaza."
+  },
+  "apiKey": "04bd2c29728778e7d22f2ae01443f3bc092b2e842d6a4a58f59f3bff54e3cae6",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
