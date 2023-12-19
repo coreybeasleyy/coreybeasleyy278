@@ -1,0 +1,26 @@
+{
+  "name": "Mary Richards",
+  "age": 51,
+  "address": {
+    "street": "Rikfut Pass",
+    "city": "Tuvfaja",
+    "state": "MD",
+    "zip": "37992"
+  },
+  "contact": {
+    "phone": "(905) 205-6531",
+    "servicePhone": "800998116"
+  },
+  "birthday": "1971-12-23T09:50:00.996Z",
+  "ip": "182.210.153.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Unramon wefoz lihmej isulul nopwetjuv kokato duduki dedo ep fahfasro mobes dala besoc ocu mub ebugu vivko. Zeuci baloeh duw hug ado go decik cu nur ihipobsel suwucalu bek ibe zat. Gom kaul raf ho uwiropa vihcejgud miep nunsofob jeke jeoripu mislutbif elu duvilniz.",
+    "bio": "Mi zovdi acivu se atome lot witez ilicev wijejsev vifazta fohfehlif ihojugwi jaz gipu nejin. Nadez oce ja ekeafa du kat pammisnef jipoko mihe oti nijatbuv feni darpiulu. Kojuvjec uphuhlab tildi tutmeccuk ni gi wejle mekjansa zo kirha rucat mebhi hivaf delveven. Nusa anu pucwazusi jok nivnofag norpohsul nuzesara tez toko fek tilho owagib. Zemo koswe mi esiibewih tise othug diwvama tudsuvotu wik zes mekte ih res kimjuso hi isuolosow. Povicruj suga ej juheeja vutibze zamis ja bowlel os hoh vecbovwak cisa nodli inmo udpeho vab bamciw lim."
+  },
+  "apiKey": "c13ac482bc1d4069fa2b9f0527b482eafde8061f422115d95b0252ca9cbbe4e9",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
