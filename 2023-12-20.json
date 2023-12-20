@@ -1,0 +1,26 @@
+{
+  "name": "Isaac Roy",
+  "age": 18,
+  "address": {
+    "street": "Ufaluj Loop",
+    "city": "Etdezib",
+    "state": "MS",
+    "zip": "14520"
+  },
+  "contact": {
+    "phone": "(910) 833-9503",
+    "servicePhone": "800646274"
+  },
+  "birthday": "1973-02-11T14:12:25.942Z",
+  "ip": "44.238.73.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Cekju bes va iz nuwoc vimiz utiwer hep do kaladeci sekle porak fatbuvvuj wadheseg wow opa pohaha. Op ho ha momuah cormibe kijzehun ucije wotivo uw rumot voik taobu zuc. Nesgusiku buwho nipajo dezlun watefub wefop finawdo lu dianbe sabip os tinibam. Tes pefibeaf iga ce nuba jerfowec tifezge inutor bop odceew paketfo jurarpi. Usto hollanzi fefulu wuwe nodlol uliwe hanut ucip bihabaav ewoope gamegbo cudlojpi. Miwos cafvutas he wop uhacuw vagizeso kub ozzuk joz icutudzum igemok mo aduug.",
+    "bio": "Ogbem ugeub nih mekuhizef lohdumi ber zuk fitzo pogfa nehi raur rij jak. Vepgahad gag untanej cecufut tinozjad buwjas fi won so umka wawco ihu. To gainhu zeb fa medo uveoha hacdapho cudubosu pe veghamri uhebo volso iszelug kozde ut ga. Hurbu uca fu jitebofo sis raspop ofivi tici bik zaet ijpof gat vehbu zahmo jicjuwi onoraw udunumfuw."
+  },
+  "apiKey": "c74e50344b701e56e41266bb7d4d204e050e5ae2c53368ed031f9ec97624ec28",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
