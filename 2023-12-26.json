@@ -1,0 +1,26 @@
+{
+  "name": "James Smith",
+  "age": 29,
+  "address": {
+    "street": "Fioba Pike",
+    "city": "Jowtulzu",
+    "state": "MO",
+    "zip": "36425"
+  },
+  "contact": {
+    "phone": "(353) 694-8736",
+    "servicePhone": "800176843"
+  },
+  "birthday": "1970-04-24T21:34:35.533Z",
+  "ip": "10.211.217.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Ifoetaw vipju soz uwaad kitajji ele ubbojoka toego fo jibal woz fig. Woiso mapinoh pacerget zup asvofoz cusovok tolifo ig oho ku tul acfat ebe sarzojko nafiava. Wirsi mopniaro rip ub ul rakna lim lise jowedef hibavkan sojtidu cem tibo suz lu nomi mahu bagcav.",
+    "bio": "Pemucoan coj aleisujeb boluvgim buar zag muhi owuula ohuzinep uta vonsuar mifegajo dihaza. De dipa wozmekef zulde jufme tit tinfe puzirum bodji navlat hoguwve vas. Le ji fe piab tufev cuh ma asa keruwoun se bicbir do pezsoode tulhog cawad. Pobnomho wak ram zuuj lafaw ja rilga wonbogoz kohzor vi pavti gagogwe."
+  },
+  "apiKey": "24c3fbd827dda332458c9266610afa02d18fa0ed52a368fdf19b9407fc482d44",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
