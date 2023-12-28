@@ -1,0 +1,26 @@
+{
+  "name": "Kathryn Lynch",
+  "age": 40,
+  "address": {
+    "street": "Dehovi Manor",
+    "city": "Aviceapa",
+    "state": "TN",
+    "zip": "37408"
+  },
+  "contact": {
+    "phone": "(885) 685-2910",
+    "servicePhone": "800716464"
+  },
+  "birthday": "1996-02-02T11:15:46.560Z",
+  "ip": "81.24.20.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Jamcuote hadli medwuv hic omi gegdi obo micdu zo suegoali asdegin figuwi alborfa mo om zeeduici dakgosli dodacoh. Ha usmukpi fad vam dekzewruf oc rupot kun upevi ikukercu rephu nitteuwe wevi kip. Podrimit negunus ivepu ahuzep liso ri lazena gapi batimo atudoos rafpam cu ipva zofokatu. Sa suh wavfonit wenaf ef malob nir tonac amocdo pacanka fuldeg oflosubo za zed ebkul lecikbu il dovbuve.",
+    "bio": "Tuj odelur ez gu pufod viimo fadogij pudca jevdugnoc cevam lob adwiv ma evi silewag. Peldirtob zeec bocop su ud nijope vabac fi bulekmi ba zehjes pescume fegjec ucumko wivko. Gito hubdof va abrojam azfaro vobduruk pe puv oj foti agizorjeb jid gowbidsor garib ti dag nare."
+  },
+  "apiKey": "be9c2e3a538322d8ea553b9584882d251799877a882ff4677321db3b076ca2eb",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
