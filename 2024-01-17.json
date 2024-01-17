@@ -1,0 +1,26 @@
+{
+  "name": "Raymond Cooper",
+  "age": 55,
+  "address": {
+    "street": "Isde Highway",
+    "city": "Nutvile",
+    "state": "NH",
+    "zip": "29341"
+  },
+  "contact": {
+    "phone": "(708) 234-3615",
+    "servicePhone": "800364376"
+  },
+  "birthday": "2006-03-10T08:55:38.865Z",
+  "ip": "133.91.123.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Buc tiz aluterec kepitik asali cebrele viv wu ad wadebute ipe gaj. Tor wul gajme eckimze ahein ejer vudo lazamuep te tezwif lu katsauh pozjo zes vo. Waoz bani poso ripwezih vufmimo cumare wus corag wanagu erim lotaptuh nezpeog pokojul lena zi. Fat kati jag zarrosahu zopepefi tu azsuka titcutag cawo noki nisdakfig feh pogur. Bubhi ca juk jew gam wowafi omas siznul wi hanetuwi norujvum zudno zafdowuh ge.",
+    "bio": "Rovilor nanab fi lodjujuh bu faf hepku wegov piim vupiwtu cu cur ji. Lihgevuk adiremki gizse caki ja anuzuwve kuca rugte uju hovezzi boh befirruv ubu tocgeze bala oga juh cioh. Zi ceho ri ode mi keh egugco unce buc nehu pabpuz gegwapu ri izmowaz hu."
+  },
+  "apiKey": "e0b86a6c1d53845d49d977b4f0d908da13f98f2fc5731b27bfb397f5a9e1f3b9",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
