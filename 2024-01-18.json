@@ -1,0 +1,26 @@
+{
+  "name": "Ralph George",
+  "age": 30,
+  "address": {
+    "street": "Gusin Boulevard",
+    "city": "Fifolo",
+    "state": "NE",
+    "zip": "33504"
+  },
+  "contact": {
+    "phone": "(541) 601-8015",
+    "servicePhone": "800614225"
+  },
+  "birthday": "1961-07-18T16:48:30.803Z",
+  "ip": "91.38.198.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Ijisda sepre za op ib vistegeb ni ricbeac putmale wab tig tec. Jo mahuk igbu kogzo orfuj nacnot cepuj lubkidi di fo inegohud fit lohme hoep. Weda ulu de rij caj unaku upzijja va tohahkuc oletu uheejifa ic itvi. Pajdu om hawigli nefzah pa er dowuv sisvaape ruzu un jafurbeg gat.",
+    "bio": "Vozir ebciona bo olebebi oguutaki pa naggilfa hoso jaharsir woas zuhi musetikup codona sucdieg. Ohnol ag sipev hucmu wudhup hi to hisgas wadokrek karmawuz suwazoj lava ac. Sekgaica bejiole lopir okiruko lilzok idij fiil muhfirem keptu utaevadot itiro tuati."
+  },
+  "apiKey": "3a1fdb4cc8c3cd97b72fef473649e6c63614d98f5c1b6a1f307fe77fd5f89e30",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
