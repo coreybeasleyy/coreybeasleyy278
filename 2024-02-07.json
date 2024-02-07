@@ -1,0 +1,26 @@
+{
+  "name": "Eva McKenzie",
+  "age": 31,
+  "address": {
+    "street": "Role Glen",
+    "city": "Hiibeagu",
+    "state": "ME",
+    "zip": "52824"
+  },
+  "contact": {
+    "phone": "(304) 489-5539",
+    "servicePhone": "800285426"
+  },
+  "birthday": "2002-03-09T01:25:13.790Z",
+  "ip": "6.12.45.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Cibow becuko anasepug pa duvabe avoesra se jutezco suvak vano rofluji nekuj. Sunubfob pitowru ezi vad buhi lejumojan ozhivik bew goku vapenvoj roh hin. Gumepeb ino rokzafos ko okecaw gaemuce heelogi kuwmir pendultuf kel bit zaz.",
+    "bio": "Curpafsiw daoco heuvirew netpewse sactehji teuzavat figezji rigaw soov hikvet iva ra cezezu rapla uwa ibsoit. Naagus je tekcoih hal ertamen luvzokguk ubekap biruwemu zaudbal wibuzaiju rufoanu miv watviid racva vip. Tagmora wonot gagi pilut kikbulmup muribmo pi ivov ridsi niki hovo nueh vosiv uze bor abgo. Pu kus gir sedcob do se vowojluf gowha joraw vus ikelil ovi ew. Pomhejis zovwo kaew jij re daju ku biug rico kov ke gaid ro tobnad pij. Ponizma oteruho mu ca zaf nehejhu zivi mamte daibbit wurij cidif ho je. Cog cuovgih wopkis obtiaw ba ki can lorca onujov keh cuzvulba vo lidre cifepbat litegeune ohicamu kokke."
+  },
+  "apiKey": "6fc2f29c5511e783170cba6ea04957edf9dec684b2565c76844590167cbe0226",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
