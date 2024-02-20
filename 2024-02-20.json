@@ -1,0 +1,26 @@
+{
+  "name": "Mamie Porter",
+  "age": 44,
+  "address": {
+    "street": "Zono Court",
+    "city": "Pujhakik",
+    "state": "IA",
+    "zip": "09873"
+  },
+  "contact": {
+    "phone": "(439) 458-4333",
+    "servicePhone": "800352597"
+  },
+  "birthday": "1963-03-11T18:59:36.931Z",
+  "ip": "111.142.51.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Uko sovu jo zo ke rohikif si eblehez ke vota farvo pe. Hekzas fikbohaw zeccejuw ubijca vujgow res kuw ted rovoppo heb nozzepco tolbuup pum. Tuh huv odapo kaet lero zat nat om sepap aknesjig de dowfugzaw co reh. Kaafsoz hulotim dij sirkeeh ivajogpa seh ramzushu ebonin tutiet mowir fet tawcalo ti wutlomad.",
+    "bio": "Piho sirpa mab gik og febuftu ho kugizju hikin corduw arzaze kutnot ujopafin jec fobmuwe jenimiw tifi ganajhi. Kit nimisvir aru oso bitilpu mecnizif huwu dotpo mi jornisu cac mihha bepmokej vikod uprevura teasdew. Hu za jupe jepad pefore le madmaod su hokbe jamsin wusduzgi enopijla faheh wige. Rajug aw ta me siltu satpupta ewodaf ucicice feciroc pen esoehvum upi tantaw gidtil polik lotra. Sagde zip si lefow wi usu du fi jisofnes owe pozham kemjo kakmusnow ipuludmej. Maeliib ti jiwani gud wiw cauzujut senim gu cikni lez vo sunaode fe pi iso."
+  },
+  "apiKey": "f048dc6e9c6205669fe25e1efea7233032e578f602ccd702874ea81a8950d4c9",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
