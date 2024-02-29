@@ -1,0 +1,26 @@
+{
+  "name": "Theresa May",
+  "age": 61,
+  "address": {
+    "street": "Imba Parkway",
+    "city": "Fubsikoj",
+    "state": "MT",
+    "zip": "52590"
+  },
+  "contact": {
+    "phone": "(711) 802-1832",
+    "servicePhone": "800263881"
+  },
+  "birthday": "1964-02-20T22:13:01.044Z",
+  "ip": "37.32.102.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Pouv zeh gu seozvog nik wumzaf tudra ri jugnapeva foli vah ep wohejega woni uhaukupa oje. Kaklub sop tivulpa cov dez cad dizcahu ovageko wegaviwi kas unero owi agapakuz dos reb. Rolen rajut boguhoga maenmuv omifujo cujupwi jeleslip vonwodod ebisomez sikag weluzte wimzi fac gakupel lic.",
+    "bio": "Ludoome up da anhanuc ofigevi wohhuv dodeni tege utorezi imfif pucelati sealrez pubfes das lakfagan huk cuzud. Voon ce zab atmeb has liku ormuhgo rodof iro geec lah nuif zok voj lig. Doiti zaphiajo hik haw ul tefriwok egu jebi woc buwot defzav le aju epaiwu soge biv."
+  },
+  "apiKey": "a6332a5e16b21460505cd91008499e0e7998ba2ef4c882c810577df5be11a45f",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
