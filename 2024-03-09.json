@@ -1,0 +1,26 @@
+{
+  "name": "Larry Franklin",
+  "age": 65,
+  "address": {
+    "street": "Uhune Turnpike",
+    "city": "Nufejeumu",
+    "state": "ME",
+    "zip": "59834"
+  },
+  "contact": {
+    "phone": "(938) 462-4649",
+    "servicePhone": "800445545"
+  },
+  "birthday": "1999-09-30T13:06:34.252Z",
+  "ip": "131.150.219.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Veluh isga wamujo tur zo eksa dejraici cam ja edupo bew fik. Ijesooz gicnugsu nuldeji gusron lur orifhu sewmus niltivobo biszoz hoffowho jido cuhogewa wope hu cavedsu cahcazi kawoctim iwpab. Dafarcul cofvihev raas murip hu biive jefeznob enugu tumjasmi anako wilwafob izfatdu zimomwip gaelocoz ta hikcaj tob noiriopu.",
+    "bio": "Hom mehez dukboso fopvefi ehez tacivve iveti wi tairavi opilebrav jeke orsa gi revza ti. Ud neosfu vasis ilugov vaujtub tihbopdep go cer memone epo giwuj seih kij zop jihidub hez bokuc igufojkug. Ce deij kol cage tud pok afivek otkihta mufoaji gopvoas no kibahkom."
+  },
+  "apiKey": "65f2d58096f823154f56ea156f538a92ae3dbb40f7f8281678ca71a812d9c384",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
