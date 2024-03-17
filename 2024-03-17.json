@@ -1,0 +1,26 @@
+{
+  "name": "Essie Thompson",
+  "age": 58,
+  "address": {
+    "street": "Kolas Lane",
+    "city": "Puzioji",
+    "state": "ND",
+    "zip": "32748"
+  },
+  "contact": {
+    "phone": "(832) 991-4660",
+    "servicePhone": "800457137"
+  },
+  "birthday": "1984-02-18T10:55:07.135Z",
+  "ip": "114.107.207.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Iz ala wekij tuhfa kak mi mud ehfivgow edsav ijure dawli li no. Osu setsar gegiuca kumook ime bizoem gukifi fecfuswe fo mir oz tek diwu katgef mi. Nakugo dof mule pabwuf zeg cube modvolib maf huwu zaw mom okuazon raew caawa.",
+    "bio": "Vu kadkeg ub jivlis av gem koztijap culugo nelat be ihoru opbab. Zawub bujawu ahi kuboje ledobpe vodlevav girgegje ug ha rohebfo lo pezne igulu kev zupeceji hi vogetveh. Mocserehu navumwan maobe cesooj koan had cus hebkamuh da ajakuvlop vehut mo epvev. Oge ejahi pimot kozcabaz tipiav wa ijiwil owifuzot sij takeceb pec savwosnus duhcenvik."
+  },
+  "apiKey": "80ee3aff916ed5732a5df993348569691ffceb71222fef6f29c70a795defdf0d",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
