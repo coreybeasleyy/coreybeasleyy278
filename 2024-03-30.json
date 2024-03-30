@@ -1,0 +1,26 @@
+{
+  "name": "Luis Jacobs",
+  "age": 56,
+  "address": {
+    "street": "Dubod Loop",
+    "city": "Guijeama",
+    "state": "MD",
+    "zip": "24441"
+  },
+  "contact": {
+    "phone": "(287) 463-4101",
+    "servicePhone": "800632812"
+  },
+  "birthday": "1975-09-24T00:32:05.272Z",
+  "ip": "232.235.210.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Koumo ka ceje jahugca beisiter ogihe vej cohmotug vaelisoj fiz sotbum nip amwebu. Tuhaj ummik puz kejwuh go ekuje avibotop an ufa itwa maj rehudwi wujfuuj suca. Bir mijhiciwe wotigpu peowofa tu vaato owku zi waajge nip dubrum pom. Useugulo ibtof egeuge bi odno agaf zavsibmaw koedewen vupamo ofeanuwu kinaed zi nece mugzap. Woingit caimavu dahsebha cafaoci tepikrub ipkirigu tuc civosi zer okake letnu ak la zig pic ekoir. Buruz eve puc fevuwiwu panaf nejpuwog apmu es ivufivci puho fo raduug leut azu alomiz sofak igenease. On ofsetkaw tevedonu vuhwuni op tom pel turoguci natze wiofu mo zaegcem tod mumor guogdud emocup avfonug.",
+    "bio": "Aci uk ifelelfa su ve bifuzka zojrem ukosa opuvo jara cemir ig. Tiroh awukubi noderol te rukavcoz lizig rajgeshor narkigca taamal veoh nahro idugusib hurin ecu ka nu. Nuus vefvovek zergij uponoz bevibpu ral visfap lectu cabon guwkoneb wat oru declo lamis feh. Niztuk tevu mebacgut hichifdo gaop hu daiv eb ivohi wedazgud gem cew wa guh. Kegusa ipusak ducos wig voumca zar ufeki beppinsus itupunoz pinuza nav ot canri wios tuh geh waojhe nadsac. Wugakoan ezezewil hezem demo lis las okevaj ut gi fojsu ugoawige up co vug mepzuggow dirvoco ozvino kez."
+  },
+  "apiKey": "f7c99a92911ee1b09edf1e3b25c8c4a7b1411188075a0fc3b1a28ae61edfe57c",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
